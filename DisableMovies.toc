@@ -1,0 +1,8 @@
+## Interface: 40300
+## Title: DisableMovies
+## Author: EvilPaul
+## Version: 1.0
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+DisableMovies.lua
